@@ -1,0 +1,12 @@
+{
+  "title":"Auto Mailer Script Configuration",
+  "serveraddress":"######",
+  "serverport":"######",
+  "htmltemplate":"\\######\auto-mailer-template.html",
+  "recipients":"######",
+  "copy":"######",
+  "sender":"######",
+  "subject":"######",
+  "htmlnote":"<p>Hello,</p><p>This message was sent to you to test a specific send configuration.</p>",
+  "timestamp": "MM-dd-yyyy"
+}
